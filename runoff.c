@@ -210,7 +210,6 @@ int find_min(void)
             break;
     }
 
-
     // Return the minimum number of votes a candidate has
     int min = 0;
     for (int i = 0; i < candidate_count; i++)
