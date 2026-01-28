@@ -1,3 +1,5 @@
+// Functions to convert a photo to either greyscale, sepia, reflecting an image, or blurring it. Note that the other files needed for this to run are not included.
+
 #include "helpers.h"
 #include <math.h>
 
